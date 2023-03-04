@@ -1,4 +1,4 @@
-import LogoSneakes from './assets/images/logo.svg'
+import LogoSneakes from '@/assets/images/logo.svg'
 
 const App = () => {
   return (
