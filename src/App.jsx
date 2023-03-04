@@ -1,8 +1,11 @@
+import LogoSneakes from './assets/images/logo.svg'
 
 const App = () => {
   return (
     <>
-     <h1 className="text-center">Olá mundo com react e tailwind </h1>
+     <header>
+        <img src={LogoSneakes} alt="" />
+     </header>
     </>
   );
 };
