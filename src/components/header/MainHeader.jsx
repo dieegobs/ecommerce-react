@@ -1,9 +1,13 @@
 import LogoSneakes from '@/assets/images/logo.svg'
 import AvatarImage from '@/assets/images/image-avatar.png'
+import { MenuIcon } from '@/components/icons/MenuIcon'
 
 export const MainHeader = () => {
     return (
         <header>
+            <button>
+                <MenuIcon/>
+            </button>
             <img src={LogoSneakes} alt="" />
             <nav>
                 <a href="#">Collections</a>
