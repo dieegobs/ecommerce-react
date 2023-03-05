@@ -1,3 +1,6 @@
+import LogoSneakes from '@/assets/images/logo.svg'
+import AvatarImage from '@/assets/images/image-avatar.png'
+
 export const MainHeader = () => {
     return (
         <header>
