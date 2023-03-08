@@ -1,3 +1,3 @@
 # Ecommerce React
 
-Html, css e javascript
+Html, Css e Javascript
